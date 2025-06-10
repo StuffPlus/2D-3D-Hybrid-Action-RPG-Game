@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine/Projects/2D_3D_Hybrid_Action_RPG_Git/Hybrid/Content/Maps/L_Basic.umap"
+			]
+		}
+	]
+}
